@@ -5,11 +5,8 @@
 Story Teller is an interactive web application that generates stories with text-to-speech (TTS) and associated images using the OpenAI API. It transitions images as the story is being told, creating a dynamic storytelling experience. Great for kids and adults alike!
 
 ![Story Teller GIF](StoryTeller.gif)
-<!-- Audio Player Reference -->
-<audio controls>
-  <source src="public/audio/audio_1699773087.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+https://github.com/wgalindo1453/Story_Teller/assets/37806859/93ef75bd-8f8c-4a1f-8d8c-460cccc6ae59
+
 
 ### Built With
 
