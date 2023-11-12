@@ -6,6 +6,7 @@ Story Teller is an interactive web application that generates stories with text-
 
 ![Story Teller GIF](StoryTeller.gif)
 
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/wgalindo1453/Story_Teller/assets/37806859/25a8504e-f19b-47a3-a8e0-37a5bba1b147)
 
 
 
